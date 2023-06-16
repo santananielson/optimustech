@@ -1,0 +1,15 @@
+@import url("styles/header.css");
+@import url("styles/sobre.css");
+@import url("styles/metricas.css");
+
+:root {
+  --vermelho: #8e2424;
+  --fonte-principal: "Inter";
+  --cinza-paragrafo: #667085;
+  --azul-titulo: #101828;
+  --branco: #ffffff;
+}
+
+/* html {
+  overflow: hidden;
+} */
