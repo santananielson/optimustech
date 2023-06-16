@@ -1,6 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/sobre.css");
 @import url("styles/metricas.css");
+@import url("styles/vagas.css");
 
 :root {
   --vermelho: #8e2424;

@@ -1,0 +1,59 @@
+.vagas-abertas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  padding-top: 144px;
+}
+
+.vaga-titulo {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: var(--vermelho);
+  /* width: 101px;
+  height: 20px; */
+  background: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 4px 12px;
+  margin: 0;
+}
+
+.titulo-principal {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #101828;
+  margin: 0;
+}
+
+.vaga-subtitulo {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #667085;
+  margin: 0;
+}
+
+.image-vagas {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  margin: 64px;
+}
