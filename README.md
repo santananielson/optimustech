@@ -2,7 +2,7 @@
 
 #7DaysOfCode com HTML e CSS! By Alura.
 
-<a href="https://santananielson.github.io/optimustech<a/>
+<a href="https://santananielson.github.io/optimustech">Página Inicial<a/>
 
 ### Tecnologias
 
