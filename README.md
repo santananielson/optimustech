@@ -1,12 +1,14 @@
 # optimustech
+
 #7DaysOfCode com HTML e CSS! By Alura.
+
+<a href="https://santananielson.github.io/optimustech<a/>
 
 ### Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
 ---
-
 
 ### Objetivo
 
@@ -21,7 +23,6 @@ coisas que qualquer pessoa entrando na área de Front-end precisa conhecer.</p>
 
 <p>HTML & CSS: Concluído ✅</p>
 
-
 ---
 
 ### Autor
@@ -32,4 +33,3 @@ Nielson Santana.
 <a href="https://instagram.com/nielsonsantana1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/nielson-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
