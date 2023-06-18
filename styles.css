@@ -2,6 +2,7 @@
 @import url("styles/sobre.css");
 @import url("styles/metricas.css");
 @import url("styles/vagas.css");
+@import url("styles/talentos.css");
 
 :root {
   --vermelho: #8e2424;
