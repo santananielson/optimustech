@@ -1,0 +1,75 @@
+.depoimentos-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1216px;
+  height: 404px;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+  margin: 0 auto;
+  margin-top: 96px;
+  margin-bottom: 96px;
+  padding: 64px;
+  gap: 32px;
+}
+
+.sub-titulo-depoimentos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  text-align: center;
+  color: #8e2424;
+}
+
+.titulo-depoimentos {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  width: 1088px;
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #101828;
+}
+
+.avatar-depoimentos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.nome-usuario {
+  display: flex;
+  justify-content: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #101828;
+  margin: 0 auto;
+}
+
+.funcao-usuario {
+  display: flex;
+  justify-content: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #667085;
+  margin: 0 auto;
+}

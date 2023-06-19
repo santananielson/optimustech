@@ -1,0 +1,107 @@
+.rodape-container {
+  display: flex;
+  padding: 96px 0px 96px 0px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  background: #f9fafb;
+  margin: 0;
+  width: 100vw;
+}
+
+.titulo-rodape {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #101828;
+  margin: 0;
+}
+
+.subtitulo-rodape {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #667085;
+  margin: -12px;
+}
+
+.formulario-rodape {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 28px;
+}
+
+.newsletter-form {
+  display: flex;
+  gap: 16px;
+}
+
+input[type="email"] {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 14px 12px 16px;
+  gap: 8px;
+  width: 360px;
+  height: 28px;
+  background: #ffffff;
+  border: 1px solid #d0d5dd;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  margin: 0;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #667085;
+}
+
+.button-form {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 20px;
+  gap: 8px;
+  width: 116px;
+  /* height: 32px; */
+  background: #8e2424;
+  border: 1px solid #8e2424;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  color: #ffffff;
+}
+
+.descricao-rodape {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #98a2b3;
+}

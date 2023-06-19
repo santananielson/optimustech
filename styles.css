@@ -3,6 +3,8 @@
 @import url("styles/metricas.css");
 @import url("styles/vagas.css");
 @import url("styles/talentos.css");
+@import url("styles/depoimentos.css");
+@import url("styles/rodape.css");
 
 :root {
   --vermelho: #8e2424;
@@ -12,6 +14,9 @@
   --branco: #ffffff;
 }
 
-/* html {
-  overflow: hidden;
-} */
+html,
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
